@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RyunArch
+- 👀 I’m interested in Software Engineering and the whole Computer Science domain, even though I don't know a lot about it and didn't do any study related to it.
+- 🌱 Despite that, I’m currently learning by Python, C++ and probably Assembly by myself.
+- 💞️ This account is made for the Arch_Project. If you want to talk about this or anything off topic:
+- 📫 contact me on:
+    - Discord: ryun#7072
+    - Twitter @r_yuNZero
